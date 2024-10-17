@@ -1,0 +1,21 @@
+{
+    "Config": [
+        {
+            "token": "PUT_UR_TOKEN_HERE", 
+            "channels": [
+                {"channelid": "replace with channel id", "messages": ["hihii dms open >.<", "dms opennnn", "my dms are open!!"]},
+                {"channelid": "put_channel_id_here", "messages": ["replace these with your own custom messages.", "heloooo", "hihiiii"]},
+                {"channelid": "put_channel_id_here", "messages": ["random2", "message_8", "message_9"]},
+                {"channelid": "put_channel_id_here", "messages": ["these messages will be sent by the bot ", "message_11", "message_12"]},
+                {"channelid": "put_channel_id_here", "messages": ["message_13", "message_14", "message_15"]},
+                {"channelid": "put_channel_id_here", "messages": ["message_16", "message_17", "message_18"]},
+                {"channelid": "put_channel_id_here", "messages": ["message_19", "message_20", "message_21"]},
+                {"channelid": "put_channel_id_here", "messages": ["message_22", "message_23", "message_24"]},
+                {"channelid": "put_channel_id_here", "messages": ["message_25", "message_26", "message_27"]},
+                {"channelid": "put_channel_id_here", "messages": ["message_28", "message_29", "message_30"]}
+            ]
+        }
+    ]
+}
+
+
